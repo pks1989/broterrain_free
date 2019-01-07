@@ -18,6 +18,8 @@ RUSSIAN
 paypal: https://www.paypal.me/broterrain
 yandex.money: 410018435051481
 
+
+
 ENGLISH
 
 Let me introduce you to a free pack of terrain for board games, primarily for infinity.
