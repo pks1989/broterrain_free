@@ -1,3 +1,25 @@
+ENGLISH
+
+Hi!
+
+Let me introduce you to a free pack of terrain for board games, primarily for infinity.
+
+Inside the archive you will find the drawings of the terrain in separate folders. The folder will contain a drawing in Corel Draw 13 format, a photo of the finished terrain and a drawing in JPG format. One folder - one item. You can simply send .cdr files to the laser cut, specifying the number of copies of each element
+
+Drawings are designed for material 3mm thick. I used plywood, but you can use plexiglass, MDF or something else 3mm thick.
+
+The drawing uses lines of three colors:
+
+    red - cutting
+    black - engraving
+    green - comments
+
+If you like this terrain, you can donate me :) paypal: https://www.paypal.me/broterrain Yandex.money: 410018435051481
+
+
+<br><br><br>
+
+
 RUSSIAN
 
 Привет. 
@@ -17,26 +39,3 @@ RUSSIAN
 Если тебе понравился данный террейн, ты можешь донатить сюда:
 paypal: https://www.paypal.me/broterrain
 yandex.money: 410018435051481
-
-<br><br><br>
-
-ENGLISH
-
-
-Hi!
-
-Let me introduce you to a free pack of terrain for board games, primarily for infinity.
-
-Inside the archive you will find the drawings of the terrain in separate folders. The folder will contain a drawing in Corel Draw 13 format, a photo of the finished terrain and a drawing in JPG format.
-One folder - one item. You can simply send .cdr files to the laser cut, specifying the number of copies of each element
-
-Drawings are designed for material 3mm thick. I used plywood, but you can use plexiglass, MDF or something else 3mm thick.
-
-The drawing uses lines of three colors:
-- red - cutting
-- black - engraving
-- green - comments
-
-If you like this terrain, you can donate me :)
-paypal: https://www.paypal.me/broterrain
-Yandex.money: 410018435051481
