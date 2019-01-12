@@ -2,7 +2,7 @@ ENGLISH
 
 Hi!
 
-Let me introduce you to a free pack of terrain for board games, primarily for infinity.
+Let me introduce a free pack of terrain for board games, primarily for infinity.
 
 Inside the archive you will find the drawings of the terrain in separate folders. The folder will contain a drawing in Corel Draw 13 format, a photo of the finished terrain and a drawing in JPG format. One folder - one item. You can simply send .cdr files to the laser cut, specifying the number of copies of each element
 
