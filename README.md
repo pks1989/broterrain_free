@@ -15,6 +15,7 @@ The drawing uses lines of three colors:
     green - comments
 
 If you like this terrain, you can donate me :)
+
 <br> paypal: https://www.paypal.me/broterrain
 <br> Yandex.money: 410018435051481
 
@@ -39,5 +40,6 @@ RUSSIAN
 - зелёная - комментарии
 
 Если тебе понравился данный террейн, ты можешь донатить сюда:
+
 <br> paypal: https://www.paypal.me/broterrain
 <br> yandex.money: 410018435051481
