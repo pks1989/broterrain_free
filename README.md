@@ -14,7 +14,9 @@ The drawing uses lines of three colors:
     black - engraving
     green - comments
 
-If you like this terrain, you can donate me :) paypal: https://www.paypal.me/broterrain Yandex.money: 410018435051481
+If you like this terrain, you can donate me :)
+<br> paypal: https://www.paypal.me/broterrain
+<br> Yandex.money: 410018435051481
 
 
 <br><br><br>
@@ -37,5 +39,5 @@ RUSSIAN
 - зелёная - комментарии
 
 Если тебе понравился данный террейн, ты можешь донатить сюда:
-paypal: https://www.paypal.me/broterrain
-yandex.money: 410018435051481
+<br> paypal: https://www.paypal.me/broterrain
+<br> yandex.money: 410018435051481
